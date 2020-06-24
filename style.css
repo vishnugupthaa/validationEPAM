@@ -1,0 +1,72 @@
+
+h1 {
+  margin-left: 650px;
+  background-color: aliceblue;
+  }
+  h2 {
+    margin-left: 590px;
+    
+    }
+    form li {
+      list-style: none;
+      margin-bottom: 5px;
+      }
+      
+      form ul li label{
+      float: left;
+      clear: left;
+      width: 100px;
+      text-align: right;
+      margin-right: 10px;
+      font-family:Verdana, Arial, Helvetica, sans-serif;
+      font-size:14px;
+      }
+      
+      form ul li input, select, span {
+      float: left;
+      margin-bottom: 10px;
+      }
+      
+      form textarea {
+      float: left;
+      width: 350px;
+      height: 150px;
+      }
+      
+      [type="submit"] {
+      clear: left;
+      margin: 20px 0 0 230px;
+      font-size:18px
+      }
+      
+      p {
+      margin-left: 650px;
+      font-weight: bold;
+      font-size: large;
+      }
+      
+form {
+  margin: 10px auto;
+  margin-left: 500px;
+}
+.textInput {
+  border: none;
+  height: 28px;
+  margin: 2px;
+  border: 1px solid #6B7363;
+  font-size: 1.2em;
+  padding: 5px;
+  width: 95%;
+}
+.textInput:focus {
+  outline: none;
+}
+.btn {
+  width: 98.6%;
+  border: none;
+  margin-top: 5px;
+  color: white;
+  background-color: #3b5998;
+  border-radius: 5px;
+  padding: 12px;
+}
